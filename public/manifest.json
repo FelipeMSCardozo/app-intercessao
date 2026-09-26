@@ -1,0 +1,16 @@
+{
+  "short_name": "Intercessão",
+  "name": "Treinamento de Intercessão e Oração",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0D0E11",
+  "theme_color": "#0D0E11",
+  "display": "standalone",
+  "orientation": "portrait"
+}
